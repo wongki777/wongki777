@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Olivia Wong</h1>
 <h3 align="center">A passionate frontend developer from Berlin, Germany</h3>
 
+- 🔭 My Le Wagon boot camp projects:
+  [Creative Minds](https://github.com/EkkiiH/creative-minds)
+  [AirBnB Clone](https://github.com/EkkiiH/airbnb-first-app)
+
 - 🌱 I’m currently learning **React and TypeScript.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/wongki777](https://github.com/wongki777)

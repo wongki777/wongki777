@@ -2,6 +2,7 @@
 <h3 align="center">A passionate frontend developer from Berlin, Germany</h3>
 
 - 🔭 My Le Wagon boot camp projects:
+
   [Creative Minds](https://github.com/EkkiiH/creative-minds)
   
   [AirBnB Clone](https://github.com/EkkiiH/airbnb-first-app)

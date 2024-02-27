@@ -3,6 +3,7 @@
 
 - 🔭 My Le Wagon boot camp projects:
   [Creative Minds](https://github.com/EkkiiH/creative-minds)
+  
   [AirBnB Clone](https://github.com/EkkiiH/airbnb-first-app)
 
 - 🌱 I’m currently learning **React and TypeScript.**
